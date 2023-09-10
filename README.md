@@ -7,7 +7,7 @@ It is a basic space game with Java.
 |👨‍💻 Developer|        🤵 Arda Avcı|
 |✨ Last Update| 📅 10.09.2023 |
 
-## 🎯 Contents
+## 🎯 How to play?
 
 We are trying to hit the ball with a rocket that we control. <br>
 You can move the rocket left or right with the ◀ ▶ keys. <br>
