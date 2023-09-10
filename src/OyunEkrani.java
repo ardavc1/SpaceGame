@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
+
 public class OyunEkrani extends JFrame {
 
     public OyunEkrani(String title) throws HeadlessException {
