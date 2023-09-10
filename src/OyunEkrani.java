@@ -26,6 +26,7 @@ public class OyunEkrani extends JFrame {
 
         ekran.add(oyun);
         ekran.setVisible(true);
+        
 
         ekran.addWindowListener(new WindowAdapter() {
             @Override
