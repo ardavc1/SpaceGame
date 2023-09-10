@@ -92,6 +92,7 @@ public class Oyun extends JPanel implements KeyListener, ActionListener {
             if (new Rectangle(ates.getX(), ates.getY(), 10, 20).intersects(new Rectangle(topX, 0, 20, 20))) {
                 skor++;
                 return;
+                
             }
         }
     }
