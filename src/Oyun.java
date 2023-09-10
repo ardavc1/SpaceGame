@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 class Ates {
-    private int x;
+    private int x
     private int y;
 
     public Ates(int x, int y) {
